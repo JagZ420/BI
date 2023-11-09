@@ -1,4 +1,4 @@
-#Project Description: Business Intelligence (BI) Project
+##Project Description: Business Intelligence (BI) Project
 
 This BI project focuses on analyzing a dataset collected through a comprehensive survey to extract meaningful insights for informed decision-making. The dataset, sourced from a structured survey, encompasses diverse information including consumer preferences, market trends, and behavioral patterns within our business domain.
 
